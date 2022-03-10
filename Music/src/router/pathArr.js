@@ -1,0 +1,1 @@
+export default ['/index/one','/index','/index/two','/index/three','/index/five','/index/sousuo','/index/mv','/index/songlists']
